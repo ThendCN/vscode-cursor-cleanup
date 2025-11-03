@@ -67,7 +67,7 @@
 
 ```bash
 # 克隆到 Projects 目录
-git clone https://github.com/thend/vscode-cursor-cleanup.git ~/Projects/vscode-cursor-cleanup
+git clone https://github.com/ThendCN/vscode-cursor-cleanup.git ~/Projects/vscode-cursor-cleanup
 
 # 运行快速设置
 ~/Projects/vscode-cursor-cleanup/setup.sh
@@ -321,6 +321,6 @@ cp ~/Desktop/cursor-backup-*.zip ~/Dropbox/backups/
 
 **[⬆ 回到顶部](#vscode-cursor-空间清理工具)**
 
-Made with ❤️ by [thend](https://github.com/thend)
+Made with ❤️ by [ThendCN](https://github.com/ThendCN)
 
 </div>
