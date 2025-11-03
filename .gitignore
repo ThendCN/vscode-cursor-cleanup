@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 备份文件
+*-backup-*.zip
+*.backup
+*.bak
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# 测试文件
+test/
+*.test.sh
